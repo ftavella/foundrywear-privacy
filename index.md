@@ -102,7 +102,7 @@ in the App's settings screen).
 
 ## 8. Children's Privacy
 
-The App is not intended for use by children under 13. We do not knowingly
+The App is not intended for use by children under 18. We do not knowingly
 collect data from children.
 
 ---
